@@ -1,0 +1,3 @@
+rootProject.name = 'adress_book'
+
+include ':app'
